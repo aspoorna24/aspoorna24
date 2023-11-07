@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm A S Poorna
+<hr>
 <!--
 **aspoorna24/aspoorna24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+![image](https://github.com/aspoorna24/aspoorna24/assets/69906063/ede2d955-8377-4a43-b826-1e89143ce513)
+
   <div>I am A Software Engineer from GOA interested in learning New Technologies ans Skills </div>
-  ![image](https://github.com/aspoorna24/aspoorna24/assets/69906063/ede2d955-8377-4a43-b826-1e89143ce513)
-  
-</div>
+
 
 
 
