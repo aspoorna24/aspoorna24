@@ -6,6 +6,10 @@ I'm A S Poorna
 
   I am A Software Engineer from GOA interested in learning New Technologies ans Skills 
 
+- 🔭 Other Hobbies:
+    - Learning new Languages
+    - Reading Books
+    - Music
 - 📫 How to reach me:
     - LinkedIn : https://www.linkedin.com/in/poorna-a-s-3760641a2/
     - Email : aspoorna@gmail.com
