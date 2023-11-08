@@ -2,7 +2,7 @@
 I'm A S Poorna
 <hr>
 
-![image](https://github.com/aspoorna24/aspoorna24/assets/69906063/ed2a75b4-72c6-4ff4-bb59-67efdc5bbb5c)
+<img align="left" width="100" height="100" src="![image](https://github.com/aspoorna24/aspoorna24/assets/69906063/ed2a75b4-72c6-4ff4-bb59-67efdc5bbb5c)">
 
   I am A Software Engineer from GOA interested in learning New Technologies ans Skills 
 
