@@ -12,6 +12,6 @@ I'm A S Poorna
     - Music
 - 📫 How to reach me:
     - LinkedIn : https://www.linkedin.com/in/poorna-a-s-3760641a2/
-    - Email : aspoorna@gmail.com
+    - Email : aspoorna24@gmail.com
 
 
