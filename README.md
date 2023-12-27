@@ -1,5 +1,6 @@
-### Hi there 👋
-I'm A S Poorna
+<center>### Hi there 👋</center>
+<br>
+<center>I'm A S Poorna</center>
 <hr>
 
 <img align="right" width="200" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZxMms5c2dqejhscG1nMTVxaDd6c2wwbGFodGNxZXNuOXp1cGZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
@@ -9,7 +10,7 @@ I'm A S Poorna
 - 🔭 Other Hobbies:
     - Learning new Languages
     - Reading Books
-    - Music
+    - Singing 
 - 📫 How to reach me:
     - LinkedIn : https://www.linkedin.com/in/poorna-a-s-3760641a2/
     - Email : aspoorna24@gmail.com
