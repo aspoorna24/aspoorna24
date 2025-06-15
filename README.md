@@ -13,10 +13,6 @@ I am A Software Engineer from GOA interested in learning New Technologies ans Sk
     - Learning new Languages
     - Reading Books
     - Singing 
-- 📫 How to reach me:
-    - LinkedIn : https://www.linkedin.com/in/poorna-a-s-3760641a2/
-    - Email : aspoorna24@gmail.com
-   
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +23,8 @@ I am A Software Engineer from GOA interested in learning New Technologies ans Sk
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aspoorna24&show_icons=true&locale=en" alt="aspoorna24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aspoorna24&" alt="aspoorna24" /></p>
+
+<hr>
+- 📫 How to reach me:
+    - LinkedIn : https://www.linkedin.com/in/poorna-a-s-3760641a2/
+    - Email : aspoorna24@gmail.com
