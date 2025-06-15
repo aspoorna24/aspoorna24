@@ -9,7 +9,7 @@
 
 I am A Software Engineer from GOA interested in learning New Technologies ans Skills. I have a strong foundation in Python and specialize in building scalable applications using technologies like Neo4j , Flask, FastAPI and GenAI 
   
-- 🔭 Other Hobbies:
+### 🔭 Other Hobbies:
     - Learning new Languages
     - Reading Books
     - Singing 
@@ -22,9 +22,9 @@ I am A Software Engineer from GOA interested in learning New Technologies ans Sk
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aspoorna24&show_icons=true&locale=en" alt="aspoorna24" width="200" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aspoorna24&" alt="aspoorna24" width="200" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aspoorna24&" alt="aspoorna24" width="200" /></p>
 
-## 💬 How to reach me:
+### 💬 How to reach me:
 - 📖LinkedIn : [https://www.linkedin.com/in/poorna-a-s-3760641a2/]
 - 📧 Email: [aspoorna24@gmail.com](mailto:aspoorna24@gmail.com)
 
